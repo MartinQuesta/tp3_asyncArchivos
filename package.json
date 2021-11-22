@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "03-tp-async-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
